@@ -1,2 +1,9 @@
-# framework_node_graphql_es6
-Frame: Node.js ES6, GraphQL
+# Framework
+> Node.js
+- ES6
+- nodemon babel-node
+
+> GraphQL
+- graphql-yoga
+
+##### The last update is 2019-10-07.
