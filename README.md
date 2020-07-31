@@ -1,4 +1,4 @@
-# Framework
+# Template
 > Node.js
 - ES6
 - nodemon babel-node
